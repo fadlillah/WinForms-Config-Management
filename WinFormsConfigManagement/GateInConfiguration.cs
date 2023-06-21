@@ -8,6 +8,7 @@ namespace WinFormsConfigManagement
 {
     public class GateInConfiguration
     {
+        public string UrlServerGateIn { get; set; }
         public string StringCommunication { get; set; }
         public string PrinterLoadingInfoName { get; set; }
     }
